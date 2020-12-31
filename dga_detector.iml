@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="PLUGIN_MODULE" version="4">
+  <component name="DevKit.ModuleBuildProperties" url="file://$MODULE_DIR$/resources/META-INF/plugin.xml" />
+  <component name="FacetManager">
+    <facet type="Python" name="Python">
+      <configuration sdkName="Remote Python 3.5.6 (sftp://temp@10.1.35.118:22/home/temp/anaconda3/envs/py35/bin/python3.5) (2)" />
+    </facet>
+  </component>
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" name="Remote Python 3.5.6 (sftp://temp@10.1.35.118:22/home/temp/anaconda3/envs/py35/bin/python3.5) (2) interpreter library" level="application" />
+  </component>
+</module>
